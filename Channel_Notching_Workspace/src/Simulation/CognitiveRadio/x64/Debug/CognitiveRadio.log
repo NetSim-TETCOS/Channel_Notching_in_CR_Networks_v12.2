@@ -1,0 +1,51 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  802_22.c
+C:\Users\Hanuman\Desktop\New folder(2)\Channel_Notching_in_CR_Networks_v12.2\Channel_Notching_Workspace\src\Simulation\CognitiveRadio\802_22.h(1227,1): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  ChannelNotching.c
+C:\Users\Hanuman\Desktop\New folder(2)\Channel_Notching_in_CR_Networks_v12.2\Channel_Notching_Workspace\src\Simulation\CognitiveRadio\802_22.h(1227,1): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  DCD.c
+C:\Users\Hanuman\Desktop\New folder(2)\Channel_Notching_in_CR_Networks_v12.2\Channel_Notching_Workspace\src\Simulation\CognitiveRadio\802_22.h(1227,1): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  DSFrame.c
+C:\Users\Hanuman\Desktop\New folder(2)\Channel_Notching_in_CR_Networks_v12.2\Channel_Notching_Workspace\src\Simulation\CognitiveRadio\802_22.h(1227,1): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  DSMAP.c
+C:\Users\Hanuman\Desktop\New folder(2)\Channel_Notching_in_CR_Networks_v12.2\Channel_Notching_Workspace\src\Simulation\CognitiveRadio\802_22.h(1227,1): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  DSx.c
+C:\Users\Hanuman\Desktop\New folder(2)\Channel_Notching_in_CR_Networks_v12.2\Channel_Notching_Workspace\src\Simulation\CognitiveRadio\802_22.h(1227,1): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  FCH.c
+C:\Users\Hanuman\Desktop\New folder(2)\Channel_Notching_in_CR_Networks_v12.2\Channel_Notching_Workspace\src\Simulation\CognitiveRadio\802_22.h(1227,1): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  Fragmentation.c
+C:\Users\Hanuman\Desktop\New folder(2)\Channel_Notching_in_CR_Networks_v12.2\Channel_Notching_Workspace\src\Simulation\CognitiveRadio\802_22.h(1227,1): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  Incumbent.c
+C:\Users\Hanuman\Desktop\New folder(2)\Channel_Notching_in_CR_Networks_v12.2\Channel_Notching_Workspace\src\Simulation\CognitiveRadio\802_22.h(1227,1): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  OFDMA.c
+C:\Users\Hanuman\Desktop\New folder(2)\Channel_Notching_in_CR_Networks_v12.2\Channel_Notching_Workspace\src\Simulation\CognitiveRadio\802_22.h(1227,1): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  PacketForward.c
+C:\Users\Hanuman\Desktop\New folder(2)\Channel_Notching_in_CR_Networks_v12.2\Channel_Notching_Workspace\src\Simulation\CognitiveRadio\802_22.h(1227,1): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  PropagationModel.c
+C:\Users\Hanuman\Desktop\New folder(2)\Channel_Notching_in_CR_Networks_v12.2\Channel_Notching_Workspace\src\Simulation\CognitiveRadio\802_22.h(1227,1): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+C:\Users\Hanuman\Desktop\New folder(2)\Channel_Notching_in_CR_Networks_v12.2\Channel_Notching_Workspace\src\Simulation\CognitiveRadio\PropagationModel.c(22): warning Msg: get_tx_info function is deprcated. Use _get_tx_info
+C:\Users\Hanuman\Desktop\New folder(2)\Channel_Notching_in_CR_Networks_v12.2\Channel_Notching_Workspace\src\Simulation\CognitiveRadio\PropagationModel.c(25): warning Msg: propagation_calculate_received_power function is deprcated. Use _propagation_calculate_received_power
+C:\Users\Hanuman\Desktop\New folder(2)\Channel_Notching_in_CR_Networks_v12.2\Channel_Notching_Workspace\src\Simulation\CognitiveRadio\PropagationModel.c(22,18): warning C4996: 'get_propagation_info': get_propagation_info is deprected.
+C:\Users\Hanuman\Desktop\New folder(2)\Channel_Notching_in_CR_Networks_v12.2\Channel_Notching_Workspace\src\Simulation\CognitiveRadio\PropagationModel.c(24,1): warning C4996: 'get_propagation_info': get_propagation_info is deprected.
+  SCH.c
+C:\Users\Hanuman\Desktop\New folder(2)\Channel_Notching_in_CR_Networks_v12.2\Channel_Notching_Workspace\src\Simulation\CognitiveRadio\802_22.h(1227,1): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  SpectrumManager.c
+C:\Users\Hanuman\Desktop\New folder(2)\Channel_Notching_in_CR_Networks_v12.2\Channel_Notching_Workspace\src\Simulation\CognitiveRadio\802_22.h(1227,1): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  UCD.c
+C:\Users\Hanuman\Desktop\New folder(2)\Channel_Notching_in_CR_Networks_v12.2\Channel_Notching_Workspace\src\Simulation\CognitiveRadio\802_22.h(1227,1): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  USFrame.c
+C:\Users\Hanuman\Desktop\New folder(2)\Channel_Notching_in_CR_Networks_v12.2\Channel_Notching_Workspace\src\Simulation\CognitiveRadio\802_22.h(1227,1): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  USMAP.c
+C:\Users\Hanuman\Desktop\New folder(2)\Channel_Notching_in_CR_Networks_v12.2\Channel_Notching_Workspace\src\Simulation\CognitiveRadio\802_22.h(1227,1): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  Generating Code...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1316,5): warning MSB8012: TargetPath(C:\Users\Hanuman\Desktop\New folder(2)\Channel_Notching_in_CR_Networks_v12.2\Channel_Notching_Workspace\src\Simulation\CognitiveRadio\..\..\..\bin\bin_x64\CognitiveRadio.dll) does not match the Linker's OutputFile property value (C:\Users\Hanuman\Desktop\New folder(2)\Channel_Notching_in_CR_Networks_v12.2\Channel_Notching_Workspace\bin\bin_x64\libCognitiveRadio.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1318,5): warning MSB8012: TargetName(CognitiveRadio) does not match the Linker's OutputFile property value (libCognitiveRadio). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+802_22.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  CognitiveRadio.lib(802_22_lib.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+802_22.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+     Creating library ..\..\..\bin\bin_x64\CognitiveRadio.lib and object ..\..\..\bin\bin_x64\CognitiveRadio.exp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Finished generating code
+CognitiveRadio.lib(802_22_lib.obj) : warning LNK4099: PDB 'CognitiveRadioLib.pdb' was not found with 'CognitiveRadio.lib(802_22_lib.obj)' or at 'C:\Users\Hanuman\Desktop\New folder(2)\Channel_Notching_in_CR_Networks_v12.2\Channel_Notching_Workspace\bin\bin_x64\CognitiveRadioLib.pdb'; linking object as if no debug info
+  CognitiveRadio.vcxproj -> C:\Users\Hanuman\Desktop\New folder(2)\Channel_Notching_in_CR_Networks_v12.2\Channel_Notching_Workspace\src\Simulation\CognitiveRadio\..\..\..\bin\bin_x64\CognitiveRadio.dll
